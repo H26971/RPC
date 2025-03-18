@@ -1,0 +1,12 @@
+com/backen/netty_consumer/core/TCPClient$1.class
+com/backen/netty_consumer/proxy/InvokeProxy$1.class
+com/backen/netty_consumer/proxy/InvokeProxy.class
+com/backen/netty_consumer/core/DefaultFuture.class
+com/backen/netty_consumer/annotation/RemoteInvoke.class
+com/backen/user/remote/UserRemote.class
+com/backen/user/entity/User.class
+com/backen/netty_consumer/param/Response.class
+com/backen/user/service/UserService.class
+com/backen/netty_consumer/param/ClientRequest.class
+com/backen/netty_consumer/handler/SimpleClientHandler.class
+com/backen/netty_consumer/core/TCPClient.class
